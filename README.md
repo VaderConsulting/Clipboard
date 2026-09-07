@@ -1,6 +1,6 @@
 # Clipboard
 
-VB6 working copy of `Clipboard` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Project1. `VersionCompanyName`: JP Morgan & Co..
+SP McMahon VB6 clipboard toolkit (`ptest.vbp`): `cCustomClipboard` for full Win32 clipboard open/clear/custom formats/binary+text, and `cClipboardViewer` for the clipboard-viewer chain (`WM_DRAWCLIPBOARD`). Demo form **Simple Clipboard 'Viewer'** lists formats and shows text or picture. Open `ptest.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
